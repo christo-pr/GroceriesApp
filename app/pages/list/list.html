@@ -1,1 +1,7 @@
-<Label text="Heyy" textWrap="true"></Label>
+<GridLayout>
+  <ListView [items]="groceryList" class="small-spacing">
+    <ng-template let-item="item">
+        <Label [text]="item.name" class="medium-spacing" horizontalAlignment="left" verticalAlignment="center"></Label>
+    </ng-template>
+  </ListView>
+</GridLayout>
