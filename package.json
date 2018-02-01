@@ -22,6 +22,7 @@
 		"@angular/platform-browser": "~4.0.0",
 		"@angular/platform-browser-dynamic": "~4.0.0",
 		"@angular/router": "~4.0.0",
+		"email-validator": "^1.1.1",
 		"nativescript-angular": "~3.0.0",
 		"nativescript-theme-core": "~1.0.4",
 		"reflect-metadata": "~0.1.8",
