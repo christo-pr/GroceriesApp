@@ -1,5 +1,10 @@
 @import url('~/platform.css');
 
+ActionBar {
+  background-color: black;
+  color: white;
+}
+
 Page {
   background: white;
   font-size: 15;
